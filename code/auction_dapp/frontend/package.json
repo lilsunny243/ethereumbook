@@ -16,7 +16,7 @@
     "vue-resource": "^1.5.0",
     "vue-router": "^3.0.1",
     "vuetify": "^0.17.6",
-    "web3": "^1.8.2",
+    "web3": "^4.0.2",
     "web3-shh": "^1.8.2"
   },
   "devDependencies": {
